@@ -1,0 +1,30 @@
+/* Cuando es un id, ponemos delante # */
+#titulo {
+    color: red;
+}
+
+.Trabajador {
+    background-color: gray;
+}
+
+.Trabajador1 {
+    color: blue;
+    text-align: center;
+}
+
+.Trabajador2 {
+    color: green;
+    text-align: center;
+}
+
+span {
+    text-decoration: underline;
+}
+
+.Estudios {
+    border: 2px solid black;
+}
+/* Selector de etiqueta (pre) */
+pre {
+    font-style: italic;
+}
