@@ -1,0 +1,15 @@
+body {
+    background-color: #fafafa;
+    min-height: 100vh;
+}
+
+.menu-arriba {
+    background-color: burlywood;
+}
+
+.menu-arriba ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    text-spacing-trim: 12vh;
+}
