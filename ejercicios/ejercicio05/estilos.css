@@ -1,0 +1,45 @@
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+th {
+    background-color: gray;
+    color: white;
+    text-align: center;
+}
+
+td {
+    text-align: left;
+    background-color: white;
+    color: black;
+    font-size: 16px;
+}
+.final {
+    background-color: lightgray;
+    text-align: center;
+}
+
+.titulos {
+    color: #666;
+    font-size: 16px;
+}
+
+.fuente1 {
+    color: #333;
+    font-size: 20px;
+}
+
+.fuente2 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Imagen {
+    width: 400px;
+    height: 200px;
+}

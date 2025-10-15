@@ -1,10 +1,43 @@
 body {
     background-color: #fafafa;
     min-height: 100vh;
+    margin: 0;
+}
+
+header {
+    text-align: center;
+    background-color: rgb(133, 80, 2);
+    color: white;
+    margin: 0;
+    padding: 20px;
+
+}
+
+.contenido {
+    padding: 20px;
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+.articulo1 {
+    text-align: left;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 5px 0px 5px black;
+    background-color: #fafafa;
+}
+
+.articulo2 {
+    text-align: left;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 5px 0px 5px black;
+    background-color: #fafafa;
 }
 
 .menu-arriba {
     background-color: burlywood;
+    padding: 20px;
 }
 
 .menu-arriba ul {
@@ -12,3 +45,15 @@ body {
     display: flex;
     justify-content: center;
 }
+
+.menu-arriba ul li {
+    margin: 10px 20px;
+}
+
+footer {
+    background-color: rgb(133, 80, 2);
+    text-align: center;
+    padding: 20px;
+    color: #ffffff;
+}
+
