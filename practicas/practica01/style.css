@@ -1,0 +1,58 @@
+header {
+    background-color: #F5A623;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+}
+
+header h1 {
+    margin: 0;
+}
+
+
+body {
+    background-color: beige;
+    padding: 0;
+    margin: 0;
+    font-family: arial, sans-serif;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #F5A623;
+    color: white;
+    padding: 0.75rem;
+}
+
+.Imagen {
+    display: block;
+    margin: 0 auto 20px;
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.Caracteristicas {
+    list-style: square;
+    padding-left: 20px;
+}
+
+.elaboracion {
+    line-height: 1.6;
+}
